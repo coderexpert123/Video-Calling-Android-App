@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "467233869798",
+    "project_id": "bcall-58914",
+    "storage_bucket": "bcall-58914.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467233869798:android:9c6356927b0a1c58011027",
+        "android_client_info": {
+          "package_name": "com.example.bcall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467233869798-ktv2j7u0svfc6bil96lvid4628kr0mg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtkka1cpA_otOLDwIFzMFUqFkpCGPZ6Cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467233869798-ktv2j7u0svfc6bil96lvid4628kr0mg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
